@@ -6,6 +6,8 @@ layout: page
 
 ##  What is REPL?
 
+> We won't be holding REPL in 2026, as some key faculty are on sabbatical this year. But we will continue the program in 2027.
+
 REPL (Research Experiences for Undergraduates in Programming Languages) is a
 summer program designed to expose students to research in programming languages
 and prepare them for graduate study in the field. Over the course of 10 weeks,
