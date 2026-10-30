@@ -6,8 +6,6 @@ layout: page
 
 ##  What is REPL?
 
-> We won't be holding REPL in 2026, as some key faculty are on sabbatical this year. But we will continue the program in 2027.
-
 REPL (Research Experiences for Undergraduates in Programming Languages) is a
 summer program designed to expose students to research in programming languages
 and prepare them for graduate study in the field. Over the course of 10 weeks,
@@ -25,7 +23,7 @@ Housing, travel, and a $7,000 stipend are provided for participants. Our objecti
  4. **Teach students how to read and analyze research papers**
 
 ## Who should apply to REPL?
-We are especially interested in providing these opportunities to those underrepresented in the programming languages research community. Between 2012-2018, the [Computing Research Association (CRA) Taulbee Survey](https://cra.org/resources/taulbee-survey/) shows only 4.9% of PhD students in computer science who study programming languages are domestic underrepresented students. These include citizens and permanent residents of the US whose race/ethnicity are Native American, Alaskan Native, Black/African American, Hispanic, and Native Hawaiian or Pacific Islander. The same survey also shows that amongst all PhD student respondents in programming languages, only 10% are women. To our knowledge, REPL is the first REU (NSF or otherwise) designed for underrepresented students and whose focus is programming languages.
+We are especially interested in providing these opportunities to those underrepresented in the programming languages research community. Between 2012-2018, the [Computing Research Association (CRA) Taulbee Survey](https://cra.org/resources/taulbee-survey/) shows only 4.9% of PhD students in computer science who study programming languages are domestic underrepresented students. These include citizens and permanent residents of the US whose race/ethnicity are Native American, Alaskan Native, Black/African American, Hispanic, and Native Hawaiian or Pacific Islander. The same survey also shows that amongst all PhD student respondents in programming languages, only 10% are women. 
 
 A student with any of the following traits is encouraged to [apply](apply):
 - **Underrepresented in programming languages research i.e. Gender Minorities, Native Americans, Native Alaskans/Hawaiians, African Americans, Hispanics, or Pacific Islanders.**
